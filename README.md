@@ -1,21 +1,33 @@
-Hello Word my names Kawan
+<h1> Hi there 👍 </h1>
 
-- 🔭 Aprendiz de TI
-- 🌱 Devoloper Front-end
-- 📫 Contate-me no email: kawansantoslima75@gmail.com
-- 😄 Pronouns: Ele/Dele
+<h3> Eu sou o Kawan Santos </h3>
+- Atualmente estudo Desenvolvimento de software e Pentest <br>
+- Estou em busca de certificações como OSCP
+<br>
+<br>
+<br>
+<br>
+
+<img height="400px" src="https://i.pinimg.com/originals/16/d5/28/16d52826e9a8f0e24faa4b1037efe808.jpg">
+
+
+<br>
+<br>
+<br>
+- Eu diria que sou apaixonado pela filosofia hacking e por desenvolvimento💓
 
 ##
 
 <div>
   <a href='https://github.com/kwansant'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kwansant&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwansant&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kwansant&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwansant&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
   
  ##
   
 <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
