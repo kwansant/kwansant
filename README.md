@@ -2,7 +2,7 @@
 
 <h3> Eu sou o Kawan Santos </h3>
 - Atualmente estudo Desenvolvimento de software e Pentest <br>
-- Estou em busca de certificações como OSCP
+- Estou aprendendo Java!
 <br>
 <br>
 <br>
